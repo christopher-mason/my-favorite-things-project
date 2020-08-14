@@ -4,3 +4,4 @@ My Favorite Beers
 +Budweiser
 +Fat Tire
 +Magic Hat #9
++Miller High Life
