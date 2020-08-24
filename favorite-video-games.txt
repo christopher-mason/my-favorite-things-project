@@ -11,3 +11,4 @@ Games:
 +Crackdown 3
 +World War Z
 +Red Faction 2
++Hydro Thunder
