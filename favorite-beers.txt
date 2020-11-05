@@ -7,3 +7,4 @@ My Favorite Beers
 +Miller High Life
 +Boston Lager
 +Braxton Garbage Beer
++White Claw
