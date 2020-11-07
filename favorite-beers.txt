@@ -8,3 +8,4 @@ My Favorite Beers
 +Boston Lager
 +Braxton Garbage Beer
 +White Claw
++Coors Light
